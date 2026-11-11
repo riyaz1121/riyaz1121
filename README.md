@@ -1,90 +1,216 @@
 
-<h1 align="center">Hi 👋, I'm Shaik Riyaz Basha</h1>
-<h3 align="center">AWS DevOps Engineer | Kubernetes | Site Reliability Engineering</h3>
+<!-- ======================================== -->
+<!-- RIYAZ | AWS DEVOPS + KUBERNETES + SRE    -->
+<!-- CYBER GREEN PROFILE                     -->
+<!-- ======================================== -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=AWS+Cloud+Infrastructure;Kubernetes+%26+EKS+Engineering;CI%2FCD+Pipeline+Automation;Infrastructure+as+Code;Site+Reliability+Engineering" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0a,50:00ff66,100:003311&height=200&section=header&text=RIYAZ%20BASHA&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AWS%20DEVOPS%20%7C%20KUBERNETES%20%7C%20SRE&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=AWS+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Kubernetes+%26+EKS+Engineering;CI%2FCD+Pipeline+Automation;Infrastructure+as+Code+%7C+Terraform;Site+Reliability+Engineering+%F0%9F%9A%80;Automate+%7C+Deploy+%7C+Monitor" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-riyaz1121-00ff66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/riyaz1121)
+[![Profile Views](https://komarev.com/ghpvc/?username=riyaz1121&label=PROFILE+VIEWS&color=00ff66&style=for-the-badge)](https://github.com/riyaz1121)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🟢 WHO AM I?
 
-I'm a DevOps and Cloud Engineering professional interested in building scalable, secure, and reliable cloud infrastructure.
+```bash
+$ whoami
 
-- ☁️ AWS Cloud Infrastructure
-- 🚀 Kubernetes and Amazon EKS
-- ⚙️ CI/CD Pipeline Automation
-- 🏗️ Infrastructure as Code using Terraform
-- 📊 Monitoring and Observability
-- 🔧 Linux and Automation with Python and Bash
-- 🎯 Focused on SRE practices and production reliability
+Name       : Riyaz Basha
+Role       : AWS DevOps | Kubernetes | SRE
+Focus      : Cloud Infrastructure & Automation
+Cloud      : Amazon Web Services
+Containers : Docker | Kubernetes | EKS
+IaC        : Terraform | CloudFormation
+CI/CD      : Jenkins | GitHub Actions
+Monitoring : Prometheus | Grafana | CloudWatch
+OS         : Linux
+Scripting  : Python | Bash
+Mission    : Automate Everything. Improve Reliability.
+```
 
-## 🛠️ Technical Skills
+I'm passionate about Cloud Computing, DevOps Automation,
+Container Orchestration, and Site Reliability Engineering.
 
-**Cloud:** AWS, GCP
+I enjoy building automated infrastructure, implementing
+CI/CD pipelines, deploying containerized applications,
+and improving system reliability through monitoring
+and observability.
 
-**Containerization:** Docker, Kubernetes, Amazon EKS
+---
 
-**Infrastructure as Code:** Terraform, CloudFormation
+## ⚡ CORE EXPERTISE
 
-**CI/CD:** Jenkins, GitHub Actions
+<table>
+<tr>
+<td width="50%" align="center">
 
-**Configuration Management:** Ansible
+### ☁️ CLOUD ENGINEERING
 
-**GitOps:** ArgoCD, Helm
+AWS Infrastructure  
+IAM & VPC  
+EC2 & S3  
+CloudWatch  
+Amazon EKS
 
-**Monitoring:** Prometheus, Grafana, CloudWatch
+</td>
+<td width="50%" align="center">
 
-**Scripting:** Python, Bash, Shell
+### 🐳 CONTAINERIZATION
 
-**Operating Systems:** Linux
+Docker  
+Kubernetes  
+Amazon EKS  
+Helm  
+Container Orchestration
 
-## 🚀 Featured Projects
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
-| Project | Technologies |
-|---|---|
-| AWS Infrastructure Automation | AWS, Terraform |
-| EKS Platform Engineering | AWS EKS, Kubernetes |
-| CI/CD Pipeline Automation | Jenkins, Docker |
-| GitOps Deployment | ArgoCD, Helm |
-| Monitoring & Observability | Prometheus, Grafana |
-| DevOps Automation | Python, Bash |
+### 🔄 DEVOPS AUTOMATION
 
-## 📈 GitHub Statistics
+Jenkins  
+GitHub Actions  
+CI/CD Pipelines  
+Terraform  
+Ansible
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyaz1121&show_icons=true&theme=tokyonight" />
-</p>
+</td>
+<td width="50%" align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaz1121&layout=compact&theme=tokyonight" />
-</p>
+### 📊 SITE RELIABILITY
 
-## 🤝 Connect With Me
+Prometheus  
+Grafana  
+CloudWatch  
+Incident Management  
+Monitoring & Alerting
 
-<p align="center">
-  <a href="https://github.com/riyaz1121">
-    GitHub Profile
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <i>Automate. Deploy. Monitor. Improve Reliability.</i>
-</p>
+---
 
+## 🛠️ TECHNOLOGY STACK
 
-<!--
-**riyaz1121/riyaz1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### CLOUD PLATFORMS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=aws,gcp" />
+
+### CONTAINERS & ORCHESTRATION
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+
+### INFRASTRUCTURE AS CODE
+
+<img src="https://skillicons.dev/icons?i=terraform,ansible" />
+
+### CI/CD & GITOPS
+
+<img src="https://skillicons.dev/icons?i=jenkins,github,githubactions,git,argo" />
+
+### MONITORING & OBSERVABILITY
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+
+### PROGRAMMING & OPERATING SYSTEMS
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python" />
+
+</div>
+
+---
+
+## 🚀 FEATURED DEVOPS PROJECTS
+
+| Project | Technologies | Focus |
+|---|---|---|
+| AWS Infrastructure Automation | AWS, Terraform | IaC |
+| Kubernetes EKS Platform | AWS, EKS, Helm | Containers |
+| Jenkins CI/CD Pipeline | Jenkins, Docker | Automation |
+| GitOps Deployment | ArgoCD, Kubernetes | GitOps |
+| Monitoring & Observability | Prometheus, Grafana | SRE |
+| DevOps Automation Scripts | Python, Bash | Automation |
+
+*These are portfolio project goals. Add repository links as you complete each project.*
+
+---
+
+## 📊 GITHUB STATISTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=riyaz1121&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff66&icon_color=00ff66&text_color=ffffff&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaz1121&layout=compact&hide_border=true&bg_color=000000&title_color=00ff66&text_color=ffffff" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=riyaz1121&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff66&fire=00ff66&currStreakLabel=00ff66" />
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/riyaz1121/riyaz1121/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+## 🎯 CURRENT FOCUS
+
+```yaml
+learning_and_building:
+  - AWS Cloud Architecture
+  - Kubernetes & Amazon EKS
+  - Terraform Infrastructure Automation
+  - Jenkins CI/CD Pipelines
+  - GitOps with ArgoCD
+  - Prometheus & Grafana
+  - SRE Monitoring and Observability
+  - Python and Bash Automation
+```
+
+---
+
+## 🤝 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/riyaz1121">
+<img src="https://img.shields.io/badge/GitHub-00ff66?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-00ff66?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🟢 AUTOMATE EVERYTHING | SCALE INFINITELY | STAY RELIABLE
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003311,50:00ff66,100:001a0a&height=120&section=footer" width="100%" />
+
+</div>
