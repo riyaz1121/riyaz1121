@@ -1,118 +1,138 @@
 
-<!-- =========================================== -->
-<!-- RIYAZ BASHA | NEON DEVOPS GITHUB PORTFOLIO -->
-<!-- AWS | KUBERNETES | SRE                     -->
-<!-- =========================================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:7B2FF7&height=220&section=header&text=RIYAZ%20BASHA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AWS%20DEVOPS%20%7C%20KUBERNETES%20%7C%20SRE&descSize=19&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:092E23,50:166534,100:86EFAC&height=220&section=header&text=SHAIK%20RIYAZ%20BASHA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AWS%20DEVOPS%20%7C%20KUBERNETES%20%7C%20SRE&descSize=17&descAlignY=60&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+Cloud+Engineering+World+%F0%9F%91%8B;AWS+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Kubernetes+%26+Amazon+EKS+Engineering;Infrastructure+as+Code+%7C+Terraform;CI%2FCD+Pipeline+Automation+%F0%9F%9A%80;Site+Reliability+Engineering+%F0%9F%93%8A" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=86EFAC&center=true&vCenter=true&width=750&lines=AWS+Cloud+Infrastructure;Kubernetes+%26+Amazon+EKS;Infrastructure+as+Code+%7C+Terraform;CI%2FCD+Pipeline+Automation;Site+Reliability+Engineering" />
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/riyaz1121">
-<img src="https://img.shields.io/badge/GitHub-riyaz1121-181717?style=for-the-badge&logo=github"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=riyaz1121&label=PROFILE+VIEWS&color=00D4FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=riyaz1121&label=PROFILE+VIEWS&color=166534&style=for-the-badge" />
+
+<br/><br/>
+
+[ABOUT](#about) • [EXPERTISE](#expertise) • [TECHNOLOGIES](#technologies) • [PROJECTS](#projects) • [CONTACT](#contact)
 
 </div>
 
 ---
 
-## 👨‍💻 ABOUT ME
+<a id="about"></a>
 
-```yaml
-name: Riyaz Basha
-role: AWS DevOps Engineer
-specialization:
-  - Cloud Infrastructure
-  - Kubernetes & Amazon EKS
-  - CI/CD Automation
-  - Infrastructure as Code
-  - Site Reliability Engineering
+## ABOUT ME
 
-cloud:
-  - AWS
-  - GCP
+### Shaik Riyaz Basha
 
-tools:
-  - Terraform
-  - Jenkins
-  - Docker
-  - Kubernetes
-  - Ansible
-  - Helm
-  - ArgoCD
-  - Prometheus
-  - Grafana
+**AWS DevOps Engineer | Kubernetes | Site Reliability Engineering**
 
-scripting:
-  - Python
-  - Bash
-  - Shell
+I am passionate about cloud infrastructure, DevOps automation, container orchestration, and building reliable systems.
 
-focus: Building scalable, automated and reliable systems
-```
+My focus is on designing scalable AWS environments, automating infrastructure provisioning, developing CI/CD pipelines, and improving application reliability through monitoring and observability.
 
-I'm passionate about Cloud Computing, DevOps Automation,
-Container Orchestration, and Site Reliability Engineering.
+**My Engineering Philosophy**
 
-My interests include automating cloud infrastructure,
-building CI/CD pipelines, deploying containerized
-applications, and improving application reliability
-through monitoring and observability.
+> Build reliable systems. Automate everything. Monitor continuously. Improve constantly.
 
 ---
 
-## ⚡ CORE EXPERTISE
+<a id="expertise"></a>
 
-<div align="center">
+## ENGINEERING EXPERTISE
 
-| ☁️ Cloud Engineering | 🐳 Container Engineering |
-|:---:|:---:|
-| AWS Infrastructure | Docker |
-| IAM & VPC | Kubernetes |
-| EC2 & S3 | Amazon EKS |
-| CloudWatch | Helm |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| 🔄 DevOps Automation | 📊 Site Reliability |
-|:---:|:---:|
-| Jenkins | Prometheus |
-| GitHub Actions | Grafana |
-| Terraform | Monitoring |
-| Ansible | Incident Management |
+### ☁️ Cloud Engineering
 
-</div>
+- AWS Infrastructure
+- EC2 & S3
+- IAM & VPC
+- Security Groups
+- CloudWatch
+- AWS EKS
+
+</td>
+<td width="50%" valign="top">
+
+### ☸️ Kubernetes & Containers
+
+- Docker
+- Kubernetes
+- Amazon EKS
+- Deployments & Services
+- Helm
+- Container Orchestration
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ DevOps Automation
+
+- Jenkins
+- GitHub Actions
+- CI/CD Pipelines
+- Terraform
+- Ansible
+- ArgoCD
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Site Reliability Engineering
+
+- Prometheus
+- Grafana
+- Monitoring & Alerting
+- Observability
+- Incident Management
+- Root Cause Analysis
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ TECHNOLOGY STACK
+<a id="technologies"></a>
+
+## TECHNOLOGY STACK
 
 <div align="center">
 
-### CLOUD PLATFORMS
+**CLOUD PLATFORMS**
 
 <img src="https://skillicons.dev/icons?i=aws,gcp" />
 
-### CONTAINERS & ORCHESTRATION
+<br/><br/>
+
+**CONTAINERS & ORCHESTRATION**
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 
-### INFRASTRUCTURE AS CODE
+<br/><br/>
+
+**INFRASTRUCTURE AS CODE**
 
 <img src="https://skillicons.dev/icons?i=terraform,ansible" />
 
-### CI/CD & GITOPS
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=jenkins,github,githubactions,git,argo" />
+**CI/CD & VERSION CONTROL**
 
-### MONITORING & OBSERVABILITY
+<img src="https://skillicons.dev/icons?i=jenkins,github,githubactions,git" />
+
+<br/><br/>
+
+**MONITORING & OBSERVABILITY**
 
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 
-### PROGRAMMING & OPERATING SYSTEMS
+<br/><br/>
+
+**PROGRAMMING & OPERATING SYSTEMS**
 
 <img src="https://skillicons.dev/icons?i=linux,bash,python" />
 
@@ -120,117 +140,178 @@ through monitoring and observability.
 
 ---
 
-## 🚀 FEATURED PROJECTS
+<a id="projects"></a>
 
-<div align="center">
+## FEATURED ENGINEERING PROJECTS
 
-<a href="https://github.com/riyaz1121/aws-terraform-infrastructure">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaz1121&repo=aws-terraform-infrastructure&theme=tokyonight&hide_border=true" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/riyaz1121/aws-eks-platform-engineering">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaz1121&repo=aws-eks-platform-engineering&theme=tokyonight&hide_border=true" />
-</a>
+### 01. AWS Infrastructure Automation
 
-<a href="https://github.com/riyaz1121/jenkins-cicd-pipeline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=riyaz1121&repo=jenkins-cicd-pipeline&theme=tokyonight&hide_border=true" />
-</a>
+`AWS` `Terraform`
 
-</div>
+- VPC architecture
+- Public and private subnets
+- EC2 provisioning
+- IAM roles and policies
+- Terraform modules
 
-### More Projects
+**Focus:** Infrastructure as Code
 
-| Project | Technologies | Description |
-|---|---|---|
-| AWS Infrastructure Automation | AWS, Terraform | Infrastructure provisioning |
-| EKS Platform Engineering | EKS, Kubernetes | Container orchestration |
-| CI/CD Pipeline | Jenkins, Docker | Automated deployment |
-| GitOps Deployment | ArgoCD, Helm | Kubernetes delivery |
-| Monitoring Stack | Prometheus, Grafana | Observability |
-| Automation Scripts | Python, Bash | DevOps automation |
+</td>
+<td width="50%" valign="top">
 
-*Create these repositories and add working implementations before presenting them as completed projects.*
+### 02. Kubernetes Platform Engineering
+
+`AWS EKS` `Kubernetes` `Helm`
+
+- EKS cluster setup
+- Container deployments
+- Services and Ingress
+- Helm deployments
+- Autoscaling
+
+**Focus:** Container orchestration
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03. CI/CD Pipeline Automation
+
+`Jenkins` `Docker` `GitHub Actions`
+
+- Automated builds
+- Docker image creation
+- Pipeline automation
+- Deployment workflows
+
+**Focus:** Continuous delivery
+
+</td>
+<td width="50%" valign="top">
+
+### 04. Monitoring & Observability
+
+`Prometheus` `Grafana` `CloudWatch`
+
+- Metrics collection
+- Infrastructure dashboards
+- Alert configuration
+- System monitoring
+
+**Focus:** Site Reliability Engineering
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05. GitOps Deployment
+
+`ArgoCD` `Kubernetes` `Helm`
+
+- Declarative deployments
+- Git-based configuration
+- Application synchronization
+
+**Focus:** GitOps automation
+
+</td>
+<td width="50%" valign="top">
+
+### 06. DevOps Automation Toolkit
+
+`Python` `Bash` `Linux`
+
+- Operational scripts
+- Log analysis
+- System health checks
+- Task automation
+
+**Focus:** Engineering productivity
+
+</td>
+</tr>
+</table>
+
+*These are portfolio project plans. Add links after publishing the actual implementations.*
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=riyaz1121&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=riyaz1121&show_icons=true&hide_border=true&bg_color=F0FDF4&title_color=166534&icon_color=16A34A&text_color=14532D&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaz1121&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaz1121&layout=compact&hide_border=true&bg_color=F0FDF4&title_color=166534&text_color=14532D" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=riyaz1121&theme=tokyonight&hide_border=true"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=riyaz1121&theme=default&hide_border=true&background=F0FDF4&ring=166534&fire=16A34A&currStreakLabel=166534" />
 
 </div>
 
 ---
 
-## 🐍 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/riyaz1121/riyaz1121/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-## 🎯 CURRENT LEARNING & FOCUS
+## CURRENT ENGINEERING FOCUS
 
 ```yaml
-cloud_engineering:
+cloud:
   - AWS Architecture
   - Amazon EKS
-  - IAM & Networking
+  - IAM and Networking
 
-devops:
-  - Terraform Automation
+automation:
+  - Terraform
   - Jenkins CI/CD
   - GitHub Actions
-  - GitOps with ArgoCD
+  - Ansible
 
 kubernetes:
-  - Deployments & Services
-  - Helm Charts
+  - Container Orchestration
+  - Helm
   - Autoscaling
   - Troubleshooting
 
-site_reliability:
-  - Prometheus & Grafana
-  - CloudWatch Monitoring
+reliability:
+  - Prometheus
+  - Grafana
+  - CloudWatch
   - Incident Management
   - Root Cause Analysis
-  - Observability
 ```
 
 ---
 
-## 🤝 CONNECT WITH ME
+<a id="contact"></a>
+
+## LET'S CONNECT
 
 <div align="center">
 
+**SHAIK RIYAZ BASHA**
+
+AWS DevOps Engineer | Kubernetes | SRE
+
+<br/>
+
 <a href="https://github.com/riyaz1121">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-14532D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-166534?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+**BUILD WITH PURPOSE. AUTOMATE WITH CONFIDENCE. ENGINEER FOR RELIABILITY.**
 
-<div align="center">
-
-### 💻 CODE. AUTOMATE. DEPLOY. SCALE.
-
-### ☁️ BUILDING THE CLOUD. POWERING THE FUTURE.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:00D4FF,100:090979&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:86EFAC,50:166534,100:092E23&height=120&section=footer" width="100%"/>
 
 </div>
